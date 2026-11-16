@@ -31,7 +31,22 @@
 | [sberbox-staros-toolkit](https://github.com/Chegolin123/sberbox-staros-toolkit) | Инструменты для SberBox на StarOS |
 | [Ai_Alex](https://github.com/Chegolin123/Ai_Alex) | Локальный AI-ассистент |
 
-`nexgate`, `transcriber` и `server-hub` остаются приватными: внутри есть инфраструктура и коммерческая часть. Публичные версии — в работе.
+`nexgate`, `transcriber` и `server-hub` остаются приватными: внутри есть инфраструктура и коммерческая часть.
+
+## Обзоры приватных проектов
+
+Код закрыт, но по каждому проекту есть технический разбор: задача, архитектура, решения и что не сработало.
+
+| Обзор | О чём |
+|---|---|
+| [NexGate](https://github.com/Chegolin123/nexgate-overview) | Шлюз к LLM: OpenAI- и Anthropic-совместимый API, биллинг по фактическим токенам |
+| [Server Hub](https://github.com/Chegolin123/server-hub-overview) | MCP над SSH: 21 инструмент для серверов, Docker, файлов и видео |
+| [Transcriber](https://github.com/Chegolin123/transcriber-overview) | Пайплайн расшифровки на faster-whisper: txt/srt/json |
+| [AI-агенты для рекламы](https://github.com/Chegolin123/advertising-ai-overview) | MCP-инструменты для Яндекс.Директ и VK Ads |
+| [Ludi](https://github.com/Chegolin123/ludi-overview) | Фреймворк Telegram-ботов-персон с конфигом в JSON |
+| [Arin](https://github.com/Chegolin123/podcast-overview) | Статья → подкаст с диалогом ведущих и пост для соцсетей |
+| [Алекс](https://github.com/Chegolin123/alex-assistant-overview) | Локальный голосовой ассистент без облака |
+| [MCP-лаборатория](https://github.com/Chegolin123/mcp-lab-overview) | Четыре MCP-сервера: база знаний, дневник, Telegram, текст на картинке |
 
 ## Сейчас изучаю
 
