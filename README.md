@@ -25,11 +25,13 @@
 
 | Проект | Что внутри |
 |---|---|
-| [mk-ai](https://github.com/Chegolin123/mk-ai) | Reinforcement learning, self-play файтинг, GPU-обучение, скриншоты и GIF из реальных прогонов |
+| [mk-ai](https://github.com/Chegolin123/mk-ai) | Reinforcement learning, self-play файтинг, GPU-обучение, Docker + CI со смоук-тренировкой |
+| [mlops-runner](https://github.com/Chegolin123/mlops-runner) | Self-hosted GitHub Actions runner на RTX 2070 SUPER: systemd/Docker, ночные тренировки, метрики артефактом |
+| [whisper-gpu](https://github.com/Chegolin123/whisper-gpu) | faster-whisper на CUDA: CLI, Docker-образ, замер RTF на своём железе |
 | [sberbox-staros-toolkit](https://github.com/Chegolin123/sberbox-staros-toolkit) | Инструменты для SberBox на StarOS |
 | [Ai_Alex](https://github.com/Chegolin123/Ai_Alex) | Локальный AI-ассистент |
 
-Витрины `mlops-runner`, `nexgate`, `transcriber` и `server-hub` — в работе: публичные версии с `docker-compose`, healthchecks и бенчмарками.
+`nexgate`, `transcriber` и `server-hub` остаются приватными: внутри есть инфраструктура и коммерческая часть. Публичные версии — в работе.
 
 ## Сейчас изучаю
 
